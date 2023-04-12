@@ -1,7 +1,4 @@
-ton_dossier
-
-├── lib
-
+ton_dossier├── lib
 │   ├── 00_hello.rb
 │   ├── 01_pyramids.rb
 │   ├── 02_password.rb
